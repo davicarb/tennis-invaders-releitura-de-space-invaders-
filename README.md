@@ -12,8 +12,8 @@ O jogo funciona da seguinte forma:
 
  -> Ganhando 3 bolas de tênis, você VENCE O JOGO.
 
- É um jogo simples, portanto funcional e inteligente. É o meu começo no mundo da programação, e também na gradução ( apenas a primeira aula de desenvolvimento de jogos ),
- mas que já foi o suficiente para treinar o bastante lógica de programação.
+ É um jogo simples, portanto funcional e inteligente. É o meu começo no mundo da programação, e também na graduação de ADS ( apenas a primeira aula de desenvolvimento de jogos ),
+ mas já foi o suficiente para treinar bastante lógica de programação.
 
  É isso! :D
 
